@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Big+Shoulders+Display:wght@700&family=Hanken+Grotesk:wght@500;700;800&family=Inter:wght@700&family=Josefin+Sans:ital,wght@0,100;0,200;0,400;0,700;1,400&family=League+Spartan:wght@400;500;700&family=Lexend+Deca&family=Manrope:wght@600;800&family=Mulish:wght@200&family=Noto+Sans:wght@100&family=Open+Sans:wght@300&family=Roboto+Slab:wght@200;400;700&family=Shantell+Sans:ital@1&display=swap');
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --d: hsl(12, 88%, 59%)
+    --d: hsl(228, 39%, 23%)
+    --d: hsl(227, 12%, 61%)
+    --d: hsl(233, 12%, 13%)
+    --d: hsl(13, 100%, 96%)
+    --d: hsl(0, 0%, 98%)
+    --d
+    --d
+    --d
+
+}
+
+
+.attribution { font-size: 11px; text-align: center;  color: hsl(228, 45%, 44%);}
+
+
